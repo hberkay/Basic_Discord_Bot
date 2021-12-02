@@ -1,0 +1,3 @@
+Proje dosyasının çalıştırılabilmesi için node.jsin yüklü olması gerekmedir.
+node.js yüklü iken terminal üzerinden projenin olduğu klasöre "npm install discord.js" yazılarak önce discord.js paketleri sonra "npm install axios" yazarak axios isimli api çekme kütüphanesinin packleri yüklenmelidir
+index.js içinde client.login("x") x olan kısıma discord botunun tokeni girilmeli ve terminal üzerinden "node .\index.js" çalıştırılmalıdır.
