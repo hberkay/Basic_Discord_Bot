@@ -1,6 +1,6 @@
 const Discord = require("discord.js"); 
 const client= new Discord.Client();    
-client.login("discord botunuzun tokenini giriniz"); 
+client.login("discord bot token :"); 
 const axios = require('axios'); 
 
 
